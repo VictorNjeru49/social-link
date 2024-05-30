@@ -9,7 +9,7 @@ body{
      background-color: hsl(0, 0%, 20%);
      border-radius: 20px;
  }
- main{
+ #main{
      width: 80%;
      display: flex;
      margin: 30px auto;
@@ -67,7 +67,7 @@ body{
          width: 100%;
          margin: 5% auto;
      }
-     main{
+     #main{
          width: 100%;
          margin-top: 40px;
      }
